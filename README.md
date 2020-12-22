@@ -14,3 +14,8 @@ Matlab .mat file is outputed instead of an image.
 The model only supports grayscale images (single channel, luminance only) and it's currently hard-coded to receive 960x540 images and upscale them with a 2x scaling factor (back to 1920x1080). This, however, can be easily changed in the code itself for training or inference.
 
 Imagemagick was used to convert images to grayscale PNGs and to upscale them with the Lanczos kernel, but any other program would work just fine.
+
+## Results
+The following image shows preliminary results on a model trained with 32 line-art images.
+
+<img src="https://raw.githubusercontent.com/Artoriuz/sp-vdsr/master/images/results.png" width="500">
