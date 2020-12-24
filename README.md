@@ -18,4 +18,4 @@ Imagemagick was used to convert images to grayscale PNGs and to upscale them wit
 ## Results
 The following image shows preliminary results on a model trained with 32 line-art images.
 
-<img src="https://raw.githubusercontent.com/Artoriuz/sp-vdsr/master/images/results.png" width="500">
+<img src="https://raw.githubusercontent.com/Artoriuz/sp-vdsr/master/images/results.png">
